@@ -74,7 +74,7 @@ blockquote {
 }
 
 hr:nth-of-type(1) {
-  margin-top: 32px;
+  margin-top: 20x;
 }
 
 hr {
@@ -98,6 +98,7 @@ h1 {
   font-size: 36px;
   letter-spacing: -1px;
   font-weight: normal;
+  text-align: center;
 }
 
 h2 {
@@ -107,6 +108,7 @@ h2 {
   font-style: italic;
   letter-spacing: -1px;
   font-weight: normal;
+  text-align: center;
 }
 
 h3 {
@@ -169,7 +171,7 @@ ol li {
   float: left;
   list-style: none;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 114%;
 }
 
 dl {
@@ -284,7 +286,7 @@ dl em {
 
   ol {
     float: left;
-    margin: 0.6em 0 0;
+    margin: 0.3em 0 0;
   }
 
   ol li {

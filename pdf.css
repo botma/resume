@@ -3,7 +3,7 @@ body.pdf {
     
     body {
 	font-size: 20px;
-	line-height: 30%;
+	line-height: 50%;
     }
     
     a {
@@ -49,8 +49,8 @@ body.pdf {
     
     p {
 	   font-style: normal;
-	   font-size: 120%;
-	   line-height: 130%;
+	   font-size: 130%;
+	   line-height: 150%;
     }
     strong {
 	font-size: 110%;
@@ -97,14 +97,15 @@ body.pdf {
     ol {
         float: left;
         width: 84%;
-        margin: .7em 0 0;
+        margin: 0 0 0;
+	padding: 0 0 0.75em;
     }
 
     ol li {
         width: 33%;
         margin: 0;
-	font-size: 18px;
-	line-height: 130%;
+	font-size: 120%;
+	line-height: 150%;
     }
     ol li:nth-child(3n) {
         width: 34%;
